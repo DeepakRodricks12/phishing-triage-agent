@@ -1,0 +1,8 @@
+graph-python
+requests
+python-dotenv
+pytest
+security-library-1
+security-library-2
+email-library-1
+email-library-2
